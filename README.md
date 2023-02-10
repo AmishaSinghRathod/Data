@@ -25,6 +25,14 @@ VALUES ('Cardinal','Tom B. Erichsen','Skagen 21','Stavanger','4006','Norway');
 Distinct : The SELECT DISTINCT statement is used to return only distinct (different) values.
 Ouery : SELECT Country FROM Customers;
 
+Where : The WHERE clause is used to filter records.
+Query : SELECT * FROM Customers
+WHERE Country='Mexico';
+
+SQL AND, OR and NOT : The WHERE clause can be combined with AND, OR, and NOT operators.
+Query : SELECT * FROM Customers
+WHERE Country='Germany' AND (City='Berlin' OR City='München');
+
 
 
 
