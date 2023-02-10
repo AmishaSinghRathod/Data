@@ -6,5 +6,5 @@ SQL stands for Structured Query Language
 
 RDBMS stands for Relational Database Management System.
 
-
+SELECT * FROM Customers;
 
