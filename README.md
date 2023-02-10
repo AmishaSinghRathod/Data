@@ -1,4 +1,5 @@
 **SQL** : Structured Query Language
+
 **INTRO** : SQL is a standard language for accessing and manipulating databases.
 
 RDBMS : Relational Database Management System.
