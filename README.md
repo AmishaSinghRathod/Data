@@ -10,6 +10,9 @@ Query : SELECT * FROM Customers;
 SELECT : The SELECT statement is used to select data from a database.
 Ouery : SELECT CustomerName,City FROM Customers;
 
-
+Update : The UPDATE statement is used to modify the existing records in a table.
+Ouery : UPDATE Customers
+SET ContactName='Alfred Schmidt', City='Frankfurt'
+WHERE CustomerID=1;
 
 
