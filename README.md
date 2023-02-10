@@ -33,6 +33,15 @@ SQL AND, OR and NOT : The WHERE clause can be combined with AND, OR, and NOT ope
 Query : SELECT * FROM Customers
 WHERE Country='Germany' AND (City='Berlin' OR City='München');
 
+Order by : The ORDER BY keyword is used to sort the result-set in ascending or descending order.
+Query : SELECT * FROM Customers
+ORDER BY Country ASC, CustomerName DESC;
+
+Null : A field with a NULL value is a field with no value.
+Query : SELECT CustomerName, ContactName, Address
+FROM Customers
+WHERE Address IS NULL;
+
 
 
 
