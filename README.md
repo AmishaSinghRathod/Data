@@ -15,4 +15,28 @@ Ouery : UPDATE Customers
 SET ContactName='Alfred Schmidt', City='Frankfurt'
 WHERE CustomerID=1;
 
+DELETE : statement is used to delete existing records in a table.
+Query : DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';
+
+Insert into : The INSERT INTO statement is used to insert new records in a table.
+Query : INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
+VALUES ('Cardinal','Tom B. Erichsen','Skagen 21','Stavanger','4006','Norway');
+
+Distinct : The SELECT DISTINCT statement is used to return only distinct (different) values.
+Ouery : SELECT Country FROM Customers;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
