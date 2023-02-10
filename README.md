@@ -1,8 +1,8 @@
-SQL : Structured Query Language
-INTRO : SQL is a standard language for accessing and manipulating databases.
+**SQL** : Structured Query Language
+**INTRO** : SQL is a standard language for accessing and manipulating databases.
 
 RDBMS : Relational Database Management System.
-INTRO :stands for Relational Database Management System.
+INTRO : stands for Relational Database Management System.
 
 SQL Syntax : A database most often contains one or more tables. Each table is identified by a name (e.g. "Customers" or "Orders"). Tables contain records (rows) with data.
 Query : SELECT * FROM Customers;
